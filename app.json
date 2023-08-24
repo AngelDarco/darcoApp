@@ -1,4 +1,13 @@
 {
-  "name": "darcoApp",
-  "displayName": "darcoApp"
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "darco-lingo",
+    "slug": "darco-lingo"
+  }
 }

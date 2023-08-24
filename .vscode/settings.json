@@ -1,0 +1,9 @@
+{
+    "editor.wrappingIndent": "indent",
+  
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true 
+    },
+    "eslint.validate": ["javascript"],
+    "editor.wordWrap": "on",
+  }
